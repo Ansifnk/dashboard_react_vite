@@ -2,8 +2,7 @@
 import { Link } from 'react-router-dom'
 import Chart from '../../components/chart/Chart'
 import { prodcutsData } from '../../constants/dummyData'
-import ProductImg from '../../Assets/images/Product.png'
-
+import ProductImg from '../../assets/images/product.png'
 import './product.css'
 import { Publish } from '@material-ui/icons'
 

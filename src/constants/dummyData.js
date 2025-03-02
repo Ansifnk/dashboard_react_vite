@@ -1,5 +1,5 @@
-import User from '../Assets/images/User.png'
-import Product from '../Assets/images/Product.png'
+import User from '../Assets/images/user.png'
+import Product from '../Assets/images/product.png'
 
 export const userData = [
     {
