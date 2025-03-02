@@ -1,7 +1,7 @@
 
 
 import './widgetLarge.css'
-import User from '../../Assets/images/User.png'
+import User from '../../Assets/images/user.png'
 
 const WidgetLarge = () => {
 

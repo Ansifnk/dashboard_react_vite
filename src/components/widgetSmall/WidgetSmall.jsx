@@ -1,7 +1,7 @@
 
 import './widgetSmall.css'
 import { Visibility } from '@material-ui/icons'
-import User from '../../Assets/images/User.png'
+import User from '../../Assets/images/user.png'
 
 
 

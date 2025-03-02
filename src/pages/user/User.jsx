@@ -1,6 +1,6 @@
 
 import './user.css'
-import user from '../../Assets/images/User.png'
+import user from '../../Assets/images/user.png'
 import { CalendarToday, LocationSearching, MailOutline, PermIdentity, PhoneAndroid, Publish } from '@material-ui/icons'
 import { Link } from 'react-router-dom'
 const User = () => {
